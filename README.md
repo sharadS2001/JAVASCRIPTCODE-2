@@ -1,7 +1,7 @@
 
 <script>
 // javascript program to convert 12 hour
-// format to 24 hour format
+// format to 24 hour format.
 
 
 function print24(str)
